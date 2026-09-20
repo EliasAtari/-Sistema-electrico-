@@ -1,1 +1,17 @@
-
+{
+    "format_version": 2,
+    "header": {
+        "name": "Electricidad - Comportamiento",
+        "description": "Behavior Pack del mod Sistema Eléctrico",
+        "uuid": "7c3d1e8a-5f42-4b91-a6e7-29d8c04f1352",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 21, 0],
+    }
+    "modules": [ 
+        {
+            "type": "data",
+            "uuid": "b81f6c24-93de-4a57-8d12-5e0f7b3c9164",
+            "version": [0, 0, 1]
+        }
+      ]
+    }
