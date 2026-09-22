@@ -14,7 +14,7 @@
 
       "minecraft:material_instances": {
         "*": {
-          "texture": "transformador",
+          "texture": "Transformador",
           "render_method": "opaque"
         }
       },
