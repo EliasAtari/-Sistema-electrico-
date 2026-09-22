@@ -2,7 +2,7 @@
   "format_version": "1.21.80",
   "minecraft:entity": {
     "description": {
-      "identifier": "electricidad:cable_electrico",
+      "identifier": "electricidad:cable_electrico_aluminio",
       "is_spawnable": false,
       "is_summonable": true,
       "is_experimental": false
