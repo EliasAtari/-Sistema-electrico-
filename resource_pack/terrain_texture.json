@@ -6,6 +6,8 @@
   "texture_data": {
     "nodo_electrico": {
       "textures": "textures/blocks/nodo_electrico"
+    },
+    "transformador": {
+      "textures": "textures/blocks/Transformador"
     }
   }
-}
